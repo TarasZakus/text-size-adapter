@@ -1,0 +1,27 @@
+{
+  "name": "text-size-adapter",
+  "version": "1.0.0",
+  "description": "Adapt text font size to fit container by width.",
+  "main": "text-size-adapter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarasZakus/text-size-adapter.git"
+  },
+  "keywords": [
+    "fit",
+    "adapt",
+    "text",
+    "size",
+    "scale",
+    "responsive"
+  ],
+  "author": "Taras Zakus <taras.zakus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TarasZakus/text-size-adapter/issues"
+  },
+  "homepage": "https://github.com/TarasZakus/text-size-adapter#readme"
+}
